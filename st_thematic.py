@@ -739,19 +739,11 @@ if col_a2.checkbox('Show my portfolio in full view'):
     #     options=['3M', '6M','1Y', '3Y', '5Y', '10Y', 'max']
     #)
     #st.write(port_stock_valid)
-    base1 = alt.Chart(index_pd).mark_line().encode(
-        x='Date',
-        y = 'Price:Q',
-        color='Ticker:N',
-        )
-    base1
 
     base = alt.Chart(port_norm).mark_line().encode(
         x='Date',
         y = 'Price:Q',
         color='Ticker:N',
-        )
+        ).properties(
+         width = 800
     base
-
-    st.write(port_norm)
-    st.write(port_all)
