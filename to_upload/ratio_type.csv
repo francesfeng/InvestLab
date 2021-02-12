@@ -1,0 +1,34 @@
+,Type,Short Name,Alternative
+0,Growth,Revenue Y/Y,Revenue
+1,Growth,Operating Profit Y/Y,Operating Profit 
+2,Growth,EPS Y/Y,EPS
+3,Growth,EBITDA Y/Y,EBITDA
+4,Profitability,ROE,ROE
+5,Profitability,ROA,ROA
+6,Profitability,ROIC,ROIC
+7,Earnings Power,Asset Turnover,Asset Turnover
+8,Earnings Power,Reinvestment Rate,Reinvestment Rate
+9,Valuation,FCF Yield,FCF Yield
+10,Valuation by Price,Price/Book,Price/Book
+11,Valuation by Price,Price/Sales,Price/Sales
+12,Valuation by Price,PE,PE
+13,Valuation,PEG,PEG
+14,Valuation by EV,EV/Revenue,EV/Revenue
+15,Valuation by EV,EV/EBITDA,EV/EBITDA
+16,Profit Margins,Gross Profit Margin,Gross Profit Margin
+17,Profit Margins,EBITDA Margin,EBITDA Margin
+18,Profit Margins,Net Profit Margin,Net Profit Margin
+19,Financial Strength,Debt/Assets,Debt/Assets
+20,Financial Strength,Debt/Equity,Debt/Equity
+21,Financial Strength,Interest Coverage Ratio,Interest Coverage Ratio
+22,Earnings Power,Earnings Retention Rate,Earnings Retention Rate
+23,Earnings Power,Dividend Payout Ratio,Dividend Payout Ratio
+24,Liquidity,Current Ratio,Current Ratio
+25,Liquidity,Quick Ratio,Quick Ratio
+26,Liquidity,Working Capital/Assets,Working Capital/Assets
+27,Financial Strength,Dividend Coverage Ratio,Dividend Coverage Ratio
+28,Valuation by EV,EV/FCF,EV/FCF
+29,Performance %,1M(%),1M(%)
+30,Performance %,3M(%),3M(%)
+31,Performance %,6M(%),6M(%)
+32,Performance %,YTD(%),YTD(%)
