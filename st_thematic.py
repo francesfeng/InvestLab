@@ -423,13 +423,13 @@ col_t1, col_t2, col_t3 = st.beta_columns(3)
 
 val_t1 = col_t1.selectbox(
         'Choose X',
-        ratio_list
+        ratio_list,0
 )
 val_t1_transform = type.loc[type['Short Name'] == val_t1,'Alternative'].values[0]
 
 val_t2 = col_t2.selectbox(
         'Choose Y',
-        ratio_list[ratio_list!=val_t1]
+        ratio_list,2
 )
 val_t2_transform = type.loc[type['Short Name'] == val_t2,'Alternative'].values[0]
 
