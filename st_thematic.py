@@ -746,4 +746,5 @@ if col_a2.checkbox('Show my portfolio in full view'):
         color='Ticker:N',
         ).properties(
          width = 800
+    )
     base
